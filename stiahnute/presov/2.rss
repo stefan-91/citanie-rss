@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Prešov Feed</title>
+	<subtitle>Oznamy</subtitle>
+	<link href="http://www.presov.sk/get_rss.php?id=1_atom_9987" type="application/atom+rss" rel="alternate" />
+	<id>http://www.presov.sk/get_rss.php?id=1_atom</id>
+	<updated>2020-11-17T09:18:07+02:00</updated>
+
+	<entry>
+		<id>http://www.presov.sk/oznamy/zakladne-skoly-v-presove-stavebne-upravy-odbornych-ucebni-.html</id>
+		<title type="text">Základné školy v Prešove- stavebné úpravy odborných učební </title>
+		<published>2020-09-16T14:54:47+02:00</published>
+		<author>
+			<name>Prešov</name>
+		</author>
+		<link rel="alternate" href="http://www.presov.sk/oznamy/zakladne-skoly-v-presove-stavebne-upravy-odbornych-ucebni-.html" />
+		<link rel="enclosure" type="application/pdf" title="Oznámenie o zmene_aktualziácii výzvy na predkladanie ponúk a súťažných podkladov.pdf" length="176610" href="http://www.presov.sk/download_file_f.php?id=1384771" />
+		<link rel="enclosure" type="application/pdf" title="Výzva na predloženie ponuky (ZsNH)09.09.2020.pdf" length="401588" href="http://www.presov.sk/download_file_f.php?id=1384772" />
+		<link rel="enclosure" type="application/pdf" title="Oznámenie o zmene_aktualziácii výzvy na predkladanie ponúk a súťažných podkladov.pdf" length="183420" href="http://www.presov.sk/download_file_f.php?id=1382761" />
+		<link rel="enclosure" type="application/x-zip-compressed" title="ZŠ v Prešove_aktualizácia_oprava 04.09.2020.zip" length="7851413" href="http://www.presov.sk/download_file_f.php?id=1382762" />
+		<link rel="enclosure" type="application/octet-stream" title="ZŠ v Prešove_aktualizácia_oprava 04.09.2020.rar" length="7643566" href="http://www.presov.sk/download_file_f.php?id=1382763" />
+		<link rel="enclosure" type="application/x-zip-compressed" title="ZŠ v Prešove.zip" length="7851440" href="http://www.presov.sk/download_file_f.php?id=1381431" />
+		<link rel="enclosure" type="application/octet-stream" title="ZŠ v Prešove.rar" length="7643574" href="http://www.presov.sk/download_file_f.php?id=1381430" />
+		<summary type="text">Výzva na predloženie ponuky Mesto Prešov, ako verejný obstarávateľ v zmysle § 7  písm. b) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „ZVO“) Vás žiadame o predloženie ponuky v zmysle § 117 ZVO na nižšie špecifikovaný predmet zákazky„ Základné školy v Prešove- stavebné úpravy odborných učební ”</summary>
+		<content type="text">Výzva na predloženie ponuky Mesto Prešov, ako verejný obstarávateľ v zmysle § 7  písm. b) zákona č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „ZVO“) Vás žiadame o predloženie ponuky v zmysle § 117 ZVO na nižšie špecifikovaný predmet zákazky„ Základné školy v Prešove- stavebné úpravy odborných učební ”</content>
+		<category term="Verejné obstarávania" />
+		<updated>2020-09-16T14:54:47+02:00</updated>
+	</entry>
+</feed>

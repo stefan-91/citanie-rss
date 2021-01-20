@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Šindliar Feed</title>
+	<subtitle>Firmy a služby</subtitle>
+	<link href="https://www.sindliar.sk/get_rss.php?id=8_atom" type="application/atom+rss" rel="alternate" />
+	<id>https://www.sindliar.sk/get_rss.php?id=8_atom</id>
+	<updated>2020-11-17T09:22:41+02:00</updated>
+
+</feed>

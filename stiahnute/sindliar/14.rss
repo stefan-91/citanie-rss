@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Šindliar Feed</title>
+	<subtitle>Zasadania</subtitle>
+	<link href="https://www.sindliar.sk/get_rss.php?id=5_atom" type="application/atom+rss" rel="alternate" />
+	<id>https://www.sindliar.sk/get_rss.php?id=5_atom</id>
+	<updated>2020-11-17T09:22:41+02:00</updated>
+
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2020-09-24-zasadnutie.html</id>
+		<title type="text">24.9.2020</title>
+		<published>2020-09-18T21:13:11+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2020-09-24-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Pozvanka_24092020.pdf" length="202264" href="https://www.sindliar.sk/download_file_f.php?id=1389284" />
+		<summary type="text">24.9.2020</summary>
+		<content type="text">24.9.2020</content>
+		<category term="Zasadanie" />
+		<updated>2020-09-18T21:13:11+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2020-06-25-zasadnutie.html</id>
+		<title type="text">Zápisnica zo zasadnutia OZ zo dňa 25.06.2020</title>
+		<published>2020-07-16T10:01:06+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2020-06-25-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Zapisnica_OZ_2_2020_25062020.pdf" length="601660" href="https://www.sindliar.sk/download_file_f.php?id=1363968" />
+		<summary type="text">Zápisnica zo zasadnutia OZ zo dňa 25.06.2020</summary>
+		<content type="text">Zápisnica zo zasadnutia OZ zo dňa 25.06.2020</content>
+		<category term="Zasadanie" />
+		<updated>2020-07-16T10:01:06+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2020-06-25-zasadnutie.html</id>
+		<title type="text">Pozvánka na zasadnutie OZ dňa 25.06.2020</title>
+		<published>2020-06-19T16:56:25+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2020-06-25-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Pozvanka_25062020.pdf" length="201216" href="https://www.sindliar.sk/download_file_f.php?id=1352791" />
+		<summary type="text">Pozvánka na zasadnutie OZ dňa 25.06.2020</summary>
+		<content type="text">Pozvánka na zasadnutie OZ dňa 25.06.2020</content>
+		<category term="Zasadanie" />
+		<updated>2020-06-19T16:56:25+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2020-03-30-zasadnutie.html</id>
+		<title type="text">30.3.2020</title>
+		<published>2020-04-30T08:57:06+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2020-03-30-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Zapisnica_OZ_1_2020_30032020.pdf" length="388774" href="https://www.sindliar.sk/download_file_f.php?id=1325664" />
+		<summary type="text">30.3.2020</summary>
+		<content type="text">30.3.2020</content>
+		<category term="Zasadanie" />
+		<updated>2020-04-30T08:57:06+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2020-03-30-zasadnutie.html</id>
+		<title type="text">30.3.2020</title>
+		<published>2020-03-26T16:06:51+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2020-03-30-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Pozvanka_30032020.pdf" length="192595" href="https://www.sindliar.sk/download_file_f.php?id=1310113" />
+		<summary type="text">30.3.2020</summary>
+		<content type="text">30.3.2020</content>
+		<category term="Zasadanie" />
+		<updated>2020-03-26T16:06:51+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2019-12-13-zasadnutie.html</id>
+		<title type="text">Zápisnica z 13.12.2019</title>
+		<published>2019-12-31T12:26:03+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2019-12-13-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Zapisnica_OZ_5_2019_13122019.pdf" length="480453" href="https://www.sindliar.sk/download_file_f.php?id=1262302" />
+		<summary type="text">Zápisnica z 13.12.2019</summary>
+		<content type="text">Zápisnica z 13.12.2019</content>
+		<category term="Zasadanie" />
+		<updated>2019-12-31T12:26:03+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2019-12-13-zasadnutie.html</id>
+		<title type="text">13.12.2019</title>
+		<published>2019-12-09T15:14:33+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2019-12-13-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Pozvanka_13122019.pdf" length="229666" href="https://www.sindliar.sk/download_file_f.php?id=1250606" />
+		<summary type="text">13.12.2019</summary>
+		<content type="text">13.12.2019</content>
+		<category term="Zasadanie" />
+		<updated>2019-12-09T15:14:33+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2019-10-08-zasadnutie.html</id>
+		<title type="text">8.10.2019</title>
+		<published>2019-11-12T08:28:05+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2019-10-08-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Zapisnica_OZ_4_2019_08102019.pdf" length="624208" href="https://www.sindliar.sk/download_file_f.php?id=1231627" />
+		<summary type="text">8.10.2019</summary>
+		<content type="text">8.10.2019</content>
+		<category term="Zasadanie" />
+		<updated>2019-11-12T08:28:05+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2019-08-30-zasadnutie.html</id>
+		<title type="text">30.8.2019</title>
+		<published>2019-10-10T15:25:52+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2019-08-30-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Zapisnica_OZ_3_2019_30082019.pdf" length="382138" href="https://www.sindliar.sk/download_file_f.php?id=1213647" />
+		<summary type="text">30.8.2019</summary>
+		<content type="text">30.8.2019</content>
+		<category term="Zasadanie" />
+		<updated>2019-10-10T15:25:52+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/zasadanie/2019-10-08-zasadnutie.html</id>
+		<title type="text">8.10.2019</title>
+		<published>2019-10-04T17:07:41+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/zasadanie/2019-10-08-zasadnutie.html" />
+		<link rel="enclosure" type="application/pdf" title="Pozvanka 08102019.pdf" length="199204" href="https://www.sindliar.sk/download_file_f.php?id=1210516" />
+		<summary type="text">8.10.2019</summary>
+		<content type="text">8.10.2019</content>
+		<category term="Zasadanie" />
+		<updated>2019-10-04T17:07:41+02:00</updated>
+	</entry>
+</feed>

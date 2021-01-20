@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Šindliar Feed</title>
+	<subtitle>Oznamy</subtitle>
+	<link href="https://www.sindliar.sk/get_rss.php?id=1_atom_9568" type="application/atom+rss" rel="alternate" />
+	<id>https://www.sindliar.sk/get_rss.php?id=1_atom</id>
+	<updated>2020-11-17T09:22:41+02:00</updated>
+
+	<entry>
+		<id>https://www.sindliar.sk/oznamy/zaverecny-ucet-obce-sindliar-za-rok-2019-_-schvaleny-.html</id>
+		<title type="text">Záverečný účet obce Šindliar za rok 2019 _ schválený </title>
+		<published>2020-06-30T15:50:44+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/oznamy/zaverecny-ucet-obce-sindliar-za-rok-2019-_-schvaleny-.html" />
+		<link rel="enclosure" type="application/pdf" title="Zaverecny_ucet_obce_Sindliar_za_rok_2019_schvaleny.pdf" length="834815" href="https://www.sindliar.sk/download_file_f.php?id=1357574" />
+		<summary type="text"></summary>
+		<content type="text"></content>
+		<category term="Elektronická úradná tabuľa" />
+		<updated>2020-06-30T15:50:44+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/oznamy/nariadenie-konania-o-zacati-jpu-sindliar.html</id>
+		<title type="text">Nariadenie konania o začatí JPÚ Šindliar</title>
+		<published>2020-02-24T14:18:22+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/oznamy/nariadenie-konania-o-zacati-jpu-sindliar.html" />
+		<link rel="enclosure" type="image/x-emf" title="Šindliar_1.emf" length="191396" href="https://www.sindliar.sk/download_file_f.php?id=1287208" />
+		<link rel="enclosure" type="application/pdf" title="Nariadenie konania o začatí JPÚ Šindliar.pdf" length="99551" href="https://www.sindliar.sk/download_file_f.php?id=1287165" />
+		<summary type="text">Obec Šindliar na základe Nariadenia konania o začatí jednoduchých pozemkových úprav v časti katastrálneho územia Šindliar od Okresného úradu Prešov, pozemkový a lesný odbor,  dňa 24.02.2020 zverejňuje predmetné nariadenie.    </summary>
+		<content type="text">Obec Šindliar na základe Nariadenia konania o začatí jednoduchých pozemkových úprav v časti katastrálneho územia Šindliar od Okresného úradu Prešov, pozemkový a lesný odbor,  dňa 24.02.2020 zverejňuje predmetné nariadenie.    </content>
+		<category term="Elektronická úradná tabuľa" />
+		<updated>2020-02-24T14:18:22+02:00</updated>
+	</entry>
+	<entry>
+		<id>https://www.sindliar.sk/oznamy/registracia-chovov-osipanych-.html</id>
+		<title type="text">Registrácia chovov ošípaných </title>
+		<published>2020-10-16T08:30:11+02:00</published>
+		<author>
+			<name>Šindliar</name>
+		</author>
+		<link rel="alternate" href="https://www.sindliar.sk/oznamy/registracia-chovov-osipanych-.html" />
+		<link rel="enclosure" type="application/pdf" title="Registrácia chovu 1 ks OŠ - Príloha č1.pdf" length="97489" href="https://www.sindliar.sk/download_file_f.php?id=1080340" />
+		<link rel="enclosure" type="application/pdf" title="Predaj 1 ks OŠ - Príloha č2.pdf" length="62388" href="https://www.sindliar.sk/download_file_f.php?id=1080339" />
+		<link rel="enclosure" type="application/pdf" title="info na web - 1 ošípaná.pdf" length="390361" href="https://www.sindliar.sk/download_file_f.php?id=1080338" />
+		<summary type="text">Regionálna veterinárna a potravinová správa informuje o povinnej registrácii chovov ošípaných. </summary>
+		<content type="text">Regionálna veterinárna a potravinová správa informuje o povinnej registrácii chovov ošípaných. </content>
+		<category term="Elektronická úradná tabuľa" />
+		<updated>2020-10-16T08:30:11+02:00</updated>
+	</entry>
+</feed>
